@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0001-two-sum) |
 | [0239-sliding-window-maximum](https://github.com/Charan-1111/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0930-binary-subarrays-with-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0001-two-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Charan-1111/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0930-binary-subarrays-with-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -50,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Charan-1111/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
