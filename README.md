@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Charan-1111/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Charan-1111/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Charan-1111/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Charan-1111/DSA-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Charan-1111/DSA-Problems/tree/master/2390-removing-stars-from-a-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Charan-1111/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Charan-1111/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Charan-1111/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -66,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Charan-1111/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Charan-1111/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
