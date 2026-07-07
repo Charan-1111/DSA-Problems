@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0001-two-sum) |
 | [0239-sliding-window-maximum](https://github.com/Charan-1111/DSA-Problems/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Charan-1111/DSA-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Charan-1111/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Charan-1111/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Charan-1111/DSA-Problems/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Charan-1111/DSA-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Charan-1111/DSA-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Charan-1111/DSA-Problems/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
