@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Charan-1111/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0239-sliding-window-maximum](https://github.com/Charan-1111/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Charan-1111/DSA-Problems/tree/master/0503-next-greater-element-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Charan-1111/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Charan-1111/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Charan-1111/DSA-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Charan-1111/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Charan-1111/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Charan-1111/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Charan-1111/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Charan-1111/DSA-Problems/tree/master/0503-next-greater-element-ii) |
@@ -81,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Charan-1111/DSA-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Charan-1111/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Charan-1111/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Charan-1111/DSA-Problems/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Charan-1111/DSA-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
