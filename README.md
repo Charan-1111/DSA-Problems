@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Charan-1111/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Charan-1111/DSA-Problems/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Charan-1111/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Charan-1111/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Charan-1111/DSA-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -38,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Charan-1111/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Charan-1111/DSA-Problems/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Charan-1111/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Charan-1111/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Charan-1111/DSA-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Charan-1111/DSA-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Charan-1111/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Charan-1111/DSA-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Charan-1111/DSA-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
