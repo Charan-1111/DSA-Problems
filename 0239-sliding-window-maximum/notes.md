@@ -1,98 +1,49 @@
-# Sliding Window Maximum - Monotonic Deque Pattern
+# Sliding Window Maximum - Complete Handbook
 
-## Core Idea
+## Brute Force
 
-The brute-force approach checks every window independently, resulting in
-**O(n × k)** time.
+Scan every window of size k to find the maximum.
 
-The optimal approach maintains a **monotonic decreasing deque** that
-stores **indices**, not values.
+-   Time: O(n\*k)
+-   Space: O(1)
 
-The front of the deque always contains the index of the maximum element
-of the current window.
+## Better Approach (Max Heap)
 
-## Why Store Indices?
+Maintain a max heap of (value,index). Remove expired indices from the
+heap top.
 
-We need to know when an element leaves the current window.
+-   Time: O(n log k)
+-   Space: O(k)
 
-Example:
+## Optimal Approach (Monotonic Deque)
 
-    nums = [4, 2, 3]
-    k = 2
+Store indices in a monotonic decreasing deque. - Remove expired indices
+from the front. - Remove smaller values from the back. - Front always
+stores the maximum.
 
-When the window moves from `[4,2]` to `[2,3]`, the index of `4` tells us
-it has expired.
+Your implementation follows this optimal approach.
 
-## Algorithm
-
-``` cpp
-vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-    vector<int> res;
-    deque<int> dq;
-
-    for (int i = 0; i < nums.size(); i++) {
-        int windowStart = i - k + 1;
-
-        while (!dq.empty() && dq.front() < windowStart)
-            dq.pop_front();
-
-        while (!dq.empty() && nums[dq.back()] < nums[i])
-            dq.pop_back();
-
-        dq.push_back(i);
-
-        if (windowStart >= 0)
-            res.push_back(nums[dq.front()]);
-    }
-
-    return res;
-}
-```
-
-## Invariants
-
--   The deque stores indices inside the current window.
--   Values corresponding to those indices are in decreasing order.
--   The front always stores the maximum element.
-
-## Why Remove Smaller Elements?
-
-When a larger element arrives, any smaller element behind it can never
-become the maximum while both remain inside the window.
-
-Example:
-
-    Deque values:
-    5 4 2
-
-    Current:
-    6
-
-    Deque becomes:
-    6
-
-## Complexity
-
-Each index is:
-
--   pushed once,
--   popped from the front at most once,
--   popped from the back at most once.
-
-Therefore:
-
--   Time: **O(n)**
--   Space: **O(k)**
+Complexity: - Time: O(n) - Space: O(k)
 
 ## Pattern Recognition
 
-Use a monotonic deque when:
+Use a monotonic deque when a window slides and you need the
+maximum/minimum for every window.
 
--   the window slides,
--   elements expire from the left,
--   new elements enter from the right,
--   and you need the maximum or minimum efficiently.
+## Similar Problems
 
-Common problems: - Sliding Window Maximum - Sliding Window Minimum -
-Jump Game VI - Constrained Subsequence Sum - Longest Continuous Subarray
-with Absolute Difference
+-   Sliding Window Minimum
+-   Jump Game VI
+-   Constrained Subsequence Sum
+-   Shortest Subarray with Sum at Least K
+-   Daily Temperatures
+-   Largest Rectangle in Histogram
+-   Remove K Digits
+-   Trapping Rain Water
+
+## Key Notes
+
+-   Store indices, not values.
+-   Remove expired indices.
+-   Maintain decreasing order.
+-   Each index is pushed and popped at most once.
