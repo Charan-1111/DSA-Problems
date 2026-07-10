@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Charan-1111/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Charan-1111/DSA-Problems/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Charan-1111/DSA-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Charan-1111/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Charan-1111/DSA-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Charan-1111/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Charan-1111/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Charan-1111/DSA-Problems/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Charan-1111/DSA-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Charan-1111/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Charan-1111/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Queue
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Charan-1111/DSA-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Charan-1111/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Charan-1111/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Charan-1111/DSA-Problems/tree/master/0901-online-stock-span) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Charan-1111/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Charan-1111/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Charan-1111/DSA-Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
