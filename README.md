@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Charan-1111/DSA-Problems/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Charan-1111/DSA-Problems/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Charan-1111/DSA-Problems/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Charan-1111/DSA-Problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
