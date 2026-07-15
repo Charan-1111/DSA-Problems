@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Charan-1111/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Charan-1111/DSA-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Charan-1111/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Charan-1111/DSA-Problems/tree/master/0402-remove-k-digits) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Charan-1111/DSA-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Charan-1111/DSA-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
