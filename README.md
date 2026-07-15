@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charan-1111/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Charan-1111/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Charan-1111/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/Charan-1111/DSA-Problems/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Charan-1111/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Charan-1111/DSA-Problems/tree/master/0503-next-greater-element-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Charan-1111/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Charan-1111/DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Charan-1111/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Charan-1111/DSA-Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Charan-1111/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Charan-1111/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Charan-1111/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Charan-1111/DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Charan-1111/DSA-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Charan-1111/DSA-Problems/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
