@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charan-1111/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Charan-1111/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Charan-1111/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Charan-1111/DSA-Problems/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Charan-1111/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0268-missing-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Charan-1111/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Charan-1111/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0268-missing-number) |
