@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charan-1111/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Charan-1111/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Charan-1111/DSA-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Charan-1111/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Charan-1111/DSA-Problems/tree/master/0189-rotate-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charan-1111/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Charan-1111/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Charan-1111/DSA-Problems/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Charan-1111/DSA-Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Charan-1111/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Charan-1111/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Charan-1111/DSA-Problems/tree/master/0148-sort-list) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Charan-1111/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Charan-1111/DSA-Problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0268-missing-number) |
 ## Merge Sort
