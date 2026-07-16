@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Charan-1111/DSA-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Charan-1111/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Charan-1111/DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Charan-1111/DSA-Problems/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Charan-1111/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Charan-1111/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Charan-1111/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Charan-1111/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Charan-1111/DSA-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Charan-1111/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -169,12 +171,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Charan-1111/DSA-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Charan-1111/DSA-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Charan-1111/DSA-Problems/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Charan-1111/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Charan-1111/DSA-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Charan-1111/DSA-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Charan-1111/DSA-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
