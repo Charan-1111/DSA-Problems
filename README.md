@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charan-1111/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Charan-1111/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Charan-1111/DSA-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Charan-1111/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Charan-1111/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Charan-1111/DSA-Problems/tree/master/0075-sort-colors) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Charan-1111/DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Charan-1111/DSA-Problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Charan-1111/DSA-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Charan-1111/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0268-missing-number) |
@@ -219,5 +221,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Charan-1111/DSA-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Charan-1111/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
