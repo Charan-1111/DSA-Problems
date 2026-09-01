@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Charan-1111/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Charan-1111/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Charan-1111/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Charan-1111/DSA-Problems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Charan-1111/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Charan-1111/DSA-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Charan-1111/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Charan-1111/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Charan-1111/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
