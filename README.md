@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Charan-1111/DSA-Problems/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Charan-1111/DSA-Problems/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Charan-1111/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/Charan-1111/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Charan-1111/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Charan-1111/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Charan-1111/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Charan-1111/DSA-Problems/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Charan-1111/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Charan-1111/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
