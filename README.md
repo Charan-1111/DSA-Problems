@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Charan-1111/DSA-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Charan-1111/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Charan-1111/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Charan-1111/DSA-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Charan-1111/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Charan-1111/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Charan-1111/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Charan-1111/DSA-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Charan-1111/DSA-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Charan-1111/DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Charan-1111/DSA-Problems/tree/master/0268-missing-number) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Charan-1111/DSA-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Merge Sort
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Charan-1111/DSA-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Charan-1111/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Charan-1111/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Charan-1111/DSA-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
 | ------- |
