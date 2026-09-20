@@ -18,11 +18,15 @@ public:
         solve(root->left);
         solve(root->right);
     }
-    
+
     TreeNode* invertTree(TreeNode* root) {
         if(!root) return root;
 
-        solve(root);
+        swap(root->left, root->right);
+
+        root->left = invertTree(root->left);
+        root->right = invertTree(root->right);
+
         return root;
     }
 };
