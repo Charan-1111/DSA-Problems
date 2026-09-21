@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Charan-1111/DSA-Problems/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Charan-1111/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Charan-1111/DSA-Problems/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Charan-1111/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Charan-1111/DSA-Problems/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Charan-1111/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Charan-1111/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Charan-1111/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
