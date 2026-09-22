@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Charan-1111/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Charan-1111/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -408,4 +410,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
