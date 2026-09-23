@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Charan-1111/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Charan-1111/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Charan-1111/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Charan-1111/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Charan-1111/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Charan-1111/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Charan-1111/DSA-Problems/tree/master/1796-second-largest-digit-in-a-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Charan-1111/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Charan-1111/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Charan-1111/DSA-Problems/tree/master/0344-reverse-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Charan-1111/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Charan-1111/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Charan-1111/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Charan-1111/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Charan-1111/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Charan-1111/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Charan-1111/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Charan-1111/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Charan-1111/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Charan-1111/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -398,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Charan-1111/DSA-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Charan-1111/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Charan-1111/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
@@ -427,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Charan-1111/DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Charan-1111/DSA-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Charan-1111/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Charan-1111/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Iterator
